@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="task_sla" version="2" view="RPT703c6a81db7143002614f81d0f96196b">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>task.parent</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="global" view="24d45b0ddbb143002614f81d0f961924">b076174ddbb143002614f81d0f9619e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-12 20:14:36</sys_created_on>
+            <sys_id>3876174ddbb143002614f81d0f9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-12 20:14:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>stage</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="global" view="24d45b0ddbb143002614f81d0f961924">b076174ddbb143002614f81d0f9619e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-12 20:14:36</sys_created_on>
+            <sys_id>b876174ddbb143002614f81d0f9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-12 20:14:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>task.assignment_group</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="global" view="24d45b0ddbb143002614f81d0f961924">b076174ddbb143002614f81d0f9619e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-12 20:14:36</sys_created_on>
+            <sys_id>3c76174ddbb143002614f81d0f9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-12 20:14:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sla.duration</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="global" view="24d45b0ddbb143002614f81d0f961924">b076174ddbb143002614f81d0f9619e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-12 20:14:36</sys_created_on>
+            <sys_id>bc76174ddbb143002614f81d0f9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-12 20:14:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_time</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="global" view="24d45b0ddbb143002614f81d0f961924">b076174ddbb143002614f81d0f9619e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-12 20:14:36</sys_created_on>
+            <sys_id>3076174ddbb143002614f81d0f9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-12 20:14:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="global" view="24d45b0ddbb143002614f81d0f961924">b076174ddbb143002614f81d0f9619e0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-12 20:14:36</sys_created_on>
+            <sys_id>b076174ddbb143002614f81d0f9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-12 20:14:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>task_sla</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-12 20:14:36</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>b076174ddbb143002614f81d0f9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>task_sla</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_ui_list_task_sla_RPT703c6a81db7143002614f81d0f96196b</sys_update_name>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-12 20:14:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt703c6a81db7143002614f81d0f96196b" name="RPT703c6a81db7143002614f81d0f96196b">24d45b0ddbb143002614f81d0f961924</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
