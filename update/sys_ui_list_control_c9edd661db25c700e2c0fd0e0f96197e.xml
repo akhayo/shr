@@ -29,8 +29,9 @@
         <sys_class_name>sys_ui_list_control</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-01 19:09:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>c9edd661db25c700e2c0fd0e0f96197e</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>x_agfid_shr_shr</sys_name>

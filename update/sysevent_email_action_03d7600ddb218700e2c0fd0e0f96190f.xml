@@ -9,8 +9,8 @@
         <collection>x_agfid_shr_shr_tasks</collection>
         <condition/>
         <content_type>text/html</content_type>
-        <description>Send email notification when 50% of SLA is reached.</description>
-        <event_name>x_agfid_shr.sla50.warning.shr.tasks</event_name>
+        <description>Send email notification when 50% anf 75% ofSHR SLA is reached.</description>
+        <event_name>x_agfid_shr.shr_tasks.sla.warning</event_name>
         <event_parm_1>true</event_parm_1>
         <event_parm_2>false</event_parm_2>
         <exclude_delegates>false</exclude_delegates>
@@ -23,7 +23,13 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Work notes: ${task.work_notes}<br />Updated by: ${task.sys_updated_by}</p>
+        <message_html><![CDATA[<div>This is an automated message</div>
+<div>Please be informed that SLA has reached percentage: ${business_percentage}% for&nbsp;<span style="background-color: #ffff00;">PARENT</span>&nbsp;request number&nbsp;${task.parent.number}</div>
+<div>Assignment group is: ${task.assignment_group}</div>
+<div>Thank you.</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Work notes: ${task.work_notes}<br />Updated by: ${task.sys_updated_by}</p>
 <div>Updated: ${task.sys_updated_on}</div>
 <div>Stage: ${task.stage}</div>
 <div>Requester's email: ${task.requester_s_email}</div>
@@ -37,11 +43,10 @@
 <div>Number of Licenses: ${task.number_of_licenses}</div>
 <div>Driver Details: ${task.driver_details}</div>
 <div>URI_Reference: ${task.URI_REF}</div>
-<div>Assignment group: ${task.assignment_group}</div>
 <div>Number: ${task.number}</div>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>SHR TASK 50 SLA Warning</name>
+        <name>SHR TASK SLA Warning</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
@@ -52,16 +57,17 @@
         <send_self>false</send_self>
         <sms_alternate/>
         <style/>
-        <subject>SHAR Task request ${task.number} 50% SLA warning </subject>
+        <subject>TASK SLA ${business_percentage}% reached for PARENT request ${task.parent.number}</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-09-29 21:16:48</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>03d7600ddb218700e2c0fd0e0f96190f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>SHR TASK 50 SLA Warning</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>SHR TASK SLA Warning</sys_name>
         <sys_overrides/>
         <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
         <sys_policy/>
@@ -69,7 +75,7 @@
         <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
         <sys_update_name>sysevent_email_action_03d7600ddb218700e2c0fd0e0f96190f</sys_update_name>
         <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-        <sys_updated_on>2017-10-01 16:40:41</sys_updated_on>
+        <sys_updated_on>2017-10-24 13:20:38</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

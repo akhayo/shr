@@ -14,6 +14,7 @@
         <sys_created_on>2017-10-03 18:06:46</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>2ce2a092db690b00e2c0fd0e0f9619c1</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -26,6 +27,6 @@
         <sys_updated_on>2017-10-10 12:55:36</sys_updated_on>
         <table>sys_user</table>
         <title>mobile</title>
-        <user display_value="Enver Malsia">388bea666f331100d91dc6012e3ee4c9</user>
+        <user display_value="">388bea666f331100d91dc6012e3ee4c9</user>
     </sys_filter>
 </record_update>

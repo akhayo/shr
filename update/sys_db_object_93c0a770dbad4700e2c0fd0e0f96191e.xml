@@ -17,11 +17,11 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">dc999aa16f020100e0bb35af1e3ee440</super_class>
+        <super_class display_value="Task" name="task">e2a8f286b900030092c0f528b97ebde5</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-09-29 16:06:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>93c0a770dbad4700e2c0fd0e0f96191e</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>SHR_tasks</sys_name>

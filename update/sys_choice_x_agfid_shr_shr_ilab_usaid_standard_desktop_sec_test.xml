@@ -13,6 +13,7 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-10-05 14:07:23</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2d3f39b6dbe18b002614f81d0f961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-10-05 14:07:34</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>e24ff576dbe18b002614f81d0f96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
@@ -49,6 +51,7 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-10-05 14:07:45</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>055f79b6dbe18b002614f81d0f9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
@@ -67,6 +70,7 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-10-05 14:07:55</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>886f79b6dbe18b002614f81d0f9619e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
@@ -85,6 +89,7 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-10-05 14:08:05</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>266f79b6dbe18b002614f81d0f9619e5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
@@ -98,7 +103,7 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-10-05 14:07:23</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>e14f79b6dbe18b002614f81d0f961919</sys_id>
+            <sys_id>3968eb670f3103006b923b6ce1050e54</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_name>ilab_usaid_standard_desktop_sec_test</sys_name>
             <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>

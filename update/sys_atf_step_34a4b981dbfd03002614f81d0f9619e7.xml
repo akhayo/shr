@@ -19,7 +19,7 @@ and ILAB OS, Patch and Component Dependencies = Test 999999000000</description>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-12 13:07:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>34a4b981dbfd03002614f81d0f9619e7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Set Field Values</sys_name>

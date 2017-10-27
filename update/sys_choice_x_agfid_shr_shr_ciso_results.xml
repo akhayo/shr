@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ciso_results" table="x_agfid_shr_shr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ciso_results</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Additional Risk</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence/>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-16 17:22:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0559bdedb79c3002614f81d0f9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-16 17:22:14</sys_updated_on>
+            <value>Additional Risk</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ciso_results</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CISO Review Not Performed</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence/>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-16 17:22:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73555b16dbb9c3002614f81d0f9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-16 17:22:34</sys_updated_on>
+            <value>CISO Review Not Performed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ciso_results</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Additional Risk</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence/>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-16 17:21:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3155f16dbb9c3002614f81d0f96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-16 17:21:59</sys_updated_on>
+            <value>No Additional Risk</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ciso_results</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence/>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-16 17:30:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2af69356dbb9c3002614f81d0f9619f2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-16 17:30:04</sys_updated_on>
+            <value>None</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ciso_results</element>
+            <name>x_agfid_shr_shr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-16 17:21:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a640543b0f7103006b923b6ce1050eaf</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>ciso_results</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_choice_x_agfid_shr_shr_ciso_results</sys_update_name>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-16 17:30:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -14,8 +14,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-10-03 17:48:05</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>8b9e18dedb290b00e2c0fd0e0f96193e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_security_acl</sys_name>
@@ -26,7 +27,7 @@
             <sys_update_name>sys_ui_list_sys_db_object_27900e83c3713000bac1addbdfba8fb6_null</sys_update_name>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
             <sys_updated_on>2017-10-03 17:48:05</sys_updated_on>
-            <sys_user display_value="Enver Malsia">388bea666f331100d91dc6012e3ee4c9</sys_user>
+            <sys_user display_value="">388bea666f331100d91dc6012e3ee4c9</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

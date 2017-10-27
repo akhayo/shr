@@ -9,8 +9,8 @@
         <collection>x_agfid_shr_shr_tasks</collection>
         <condition/>
         <content_type>text/html</content_type>
-        <description>Send email notification when SLA is breached</description>
-        <event_name>x_agfid_shr.sla.warning.breach.shr.tasks</event_name>
+        <description>Send email notification when SHR SLA is breached</description>
+        <event_name>x_agfid_shr.shr_tasks.sla.breach</event_name>
         <event_parm_1>true</event_parm_1>
         <event_parm_2>false</event_parm_2>
         <exclude_delegates>false</exclude_delegates>
@@ -23,7 +23,9 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Work notes: ${task.work_notes}<br />Updated by: ${task.sys_updated_by}</p>
+        <message_html><![CDATA[<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Work notes: ${task.work_notes}<br />Updated by: ${task.sys_updated_by}</p>
 <div>Updated: ${task.sys_updated_on}</div>
 <div>Stage: ${task.stage}</div>
 <div>Requester's email: ${task.requester_s_email}</div>
@@ -52,15 +54,16 @@
         <send_self>false</send_self>
         <sms_alternate/>
         <style/>
-        <subject>SHAR Task request ${task.number} SLA breach</subject>
+        <subject>TASK SLA Breach Notification ${business_percentage}%</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-09-29 21:22:38</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>fe59a44ddb218700e2c0fd0e0f961956</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>SHR TASK SLA Breach</sys_name>
         <sys_overrides/>
         <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
@@ -69,7 +72,7 @@
         <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
         <sys_update_name>sysevent_email_action_fe59a44ddb218700e2c0fd0e0f961956</sys_update_name>
         <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-        <sys_updated_on>2017-10-01 17:33:02</sys_updated_on>
+        <sys_updated_on>2017-10-24 13:12:47</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

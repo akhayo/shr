@@ -28,8 +28,9 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-10 18:25:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>6b4a646cdbb94f002614f81d0f9619fa</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>My SHR Requests</sys_name>

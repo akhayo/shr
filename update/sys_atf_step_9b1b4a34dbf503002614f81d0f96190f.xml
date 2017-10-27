@@ -13,7 +13,7 @@ Update the value of the field 'State' to 'Approved'
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-11 20:07:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9b1b4a34dbf503002614f81d0f96190f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Record Update</sys_name>

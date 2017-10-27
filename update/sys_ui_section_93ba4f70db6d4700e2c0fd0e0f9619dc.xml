@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>4e5738f8dbf103002614f81d0f9619c5</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>1e712f27dbfd4700e2c0fd0e0f96194a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,41 +19,41 @@
             <element>product_name</element>
             <position>1</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>ce5738f8dbf103002614f81d0f9619c5</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>9e712f27dbfd4700e2c0fd0e0f96194a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>product_version</element>
-            <position>2</position>
-            <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>425738f8dbf103002614f81d0f9619c6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
-            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>product_type</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>c25738f8dbf103002614f81d0f9619c6</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>12712f27dbfd4700e2c0fd0e0f96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_version</element>
+            <position>3</position>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>92712f27dbfd4700e2c0fd0e0f96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>product_architecture</element>
             <position>4</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>465738f8dbf103002614f81d0f9619c6</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>16712f27dbfd4700e2c0fd0e0f96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>manufacturer</element>
             <position>5</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>c65738f8dbf103002614f81d0f9619c6</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>96712f27dbfd4700e2c0fd0e0f96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>manufacturer_webaddress</element>
             <position>6</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>4a5738f8dbf103002614f81d0f9619c6</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>1a712f27dbfd4700e2c0fd0e0f96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>product_category</element>
             <position>7</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>ca5738f8dbf103002614f81d0f9619c6</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>9a712f27dbfd4700e2c0fd0e0f96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>requires_driver</element>
             <position>8</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>4e5738f8dbf103002614f81d0f9619c6</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>1e712f27dbfd4700e2c0fd0e0f96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>driver_details</element>
             <position>9</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>ce5738f8dbf103002614f81d0f9619c6</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>9e712f27dbfd4700e2c0fd0e0f96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>.split</element>
             <position>10</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>425738f8dbf103002614f81d0f9619c7</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>12712f27dbfd4700e2c0fd0e0f96194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>disposition</element>
             <position>11</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>c25738f8dbf103002614f81d0f9619c7</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>92712f27dbfd4700e2c0fd0e0f96194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,13 +173,13 @@
             <element>opened_by</element>
             <position>12</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>465738f8dbf103002614f81d0f9619c7</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>16712f27dbfd4700e2c0fd0e0f96194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -187,13 +187,13 @@
             <element>requested_by</element>
             <position>13</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>c65738f8dbf103002614f81d0f9619c7</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>96712f27dbfd4700e2c0fd0e0f96194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -201,13 +201,13 @@
             <element>requested_by.phone</element>
             <position>14</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>4a5738f8dbf103002614f81d0f9619c7</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>1a712f27dbfd4700e2c0fd0e0f96194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -215,13 +215,13 @@
             <element>requested_by.email</element>
             <position>15</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>ca5738f8dbf103002614f81d0f9619c7</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>9a712f27dbfd4700e2c0fd0e0f96194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -229,13 +229,13 @@
             <element>requested_by.department</element>
             <position>16</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>4e5738f8dbf103002614f81d0f9619c7</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>1e712f27dbfd4700e2c0fd0e0f96194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -243,13 +243,13 @@
             <element>usaid_owner</element>
             <position>17</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>ce5738f8dbf103002614f81d0f9619c7</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>9e712f27dbfd4700e2c0fd0e0f96194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -257,13 +257,13 @@
             <element>connects_to_gfe</element>
             <position>18</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>425738f8dbf103002614f81d0f9619c8</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>12712f27dbfd4700e2c0fd0e0f96194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -271,13 +271,13 @@
             <element>connects_to_aidnet</element>
             <position>19</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>c25738f8dbf103002614f81d0f9619c8</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>92712f27dbfd4700e2c0fd0e0f96194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -285,13 +285,13 @@
             <element>.end_split</element>
             <position>20</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>465738f8dbf103002614f81d0f9619c8</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>16712f27dbfd4700e2c0fd0e0f96194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -299,27 +299,27 @@
             <element>.begin_split</element>
             <position>21</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>c65738f8dbf103002614f81d0f9619c8</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>96712f27dbfd4700e2c0fd0e0f96194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>estimated_5_year_cost</element>
+            <element>total_estimated_cost</element>
             <position>22</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>4a5738f8dbf103002614f81d0f9619c8</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>1a712f27dbfd4700e2c0fd0e0f96194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -327,13 +327,13 @@
             <element>is_this_an_upgrade</element>
             <position>23</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>ca5738f8dbf103002614f81d0f9619c8</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>9a712f27dbfd4700e2c0fd0e0f96194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -341,13 +341,13 @@
             <element>.split</element>
             <position>24</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>4e5738f8dbf103002614f81d0f9619c8</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>1e712f27dbfd4700e2c0fd0e0f96194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -355,13 +355,13 @@
             <element>number_of_licenses</element>
             <position>25</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>ce5738f8dbf103002614f81d0f9619c8</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>9e712f27dbfd4700e2c0fd0e0f96194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -369,13 +369,13 @@
             <element>quantity_of_requested_hardware</element>
             <position>26</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>425738f8dbf103002614f81d0f9619c9</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>12712f27dbfd4700e2c0fd0e0f96194e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -383,13 +383,13 @@
             <element>.end_split</element>
             <position>27</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>c25738f8dbf103002614f81d0f9619c9</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>92712f27dbfd4700e2c0fd0e0f96194e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -397,13 +397,13 @@
             <element>product_description</element>
             <position>28</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>465738f8dbf103002614f81d0f9619c9</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>16712f27dbfd4700e2c0fd0e0f96194e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -411,13 +411,13 @@
             <element>minimum_system_requirements</element>
             <position>29</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>c65738f8dbf103002614f81d0f9619c9</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>96712f27dbfd4700e2c0fd0e0f96194e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -425,13 +425,13 @@
             <element>need_statement</element>
             <position>30</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:58</sys_created_on>
-            <sys_id>4a5738f8dbf103002614f81d0f9619c9</sys_id>
+            <sys_created_on>2017-10-20 15:27:34</sys_created_on>
+            <sys_id>1a712f27dbfd4700e2c0fd0e0f96194e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:58</sys_updated_on>
+            <sys_updated_on>2017-10-20 15:27:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -445,6 +445,7 @@
             <sys_created_on>2017-09-29 14:29:15</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>93ba4f70db6d4700e2c0fd0e0f9619dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_agfid_shr_shr</sys_name>

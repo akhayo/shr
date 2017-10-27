@@ -136,6 +136,7 @@
             <sys_created_on>2017-10-05 17:40:45</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>cf107e36db658b002614f81d0f961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name/>

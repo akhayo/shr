@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="SHR" max_length="40" name="x_agfid_shr_shr" sizeclass="10" type="collection">
+    <element extends="task" label="SHR" max_length="40" name="x_agfid_shr_shr" sizeclass="1" type="collection">
         <element label="508 Compliant" max_length="40" name="508_compliant" type="boolean"/>
         <element label="508 Conditions" max_length="4000" name="508_conditions" type="string"/>
         <element label="508 Justification" max_length="4000" name="508_justification" type="string"/>
@@ -10,14 +10,21 @@
         <element choice="3" default="na" label="ARB Status" max_length="40" name="arb_status" type="choice">
             <choice>
                 <element label="Approved" value="approved"/>
+                <element label="Approved with conditions" value="approved_with_conditions"/>
                 <element label="Disapproved" value="disapproved"/>
-                <element label="N/A" value="na"/>
                 <element label="Pending" value="pending"/>
             </choice>
         </element>
         <element label="CISO Fedramp Approved" max_length="40" name="ciso_fedramp_approved" type="boolean"/>
         <element label="CISO Governance Comment" max_length="4000" name="ciso_governance_comment" type="string"/>
-        <element label="CISO Results" max_length="4000" name="ciso_results" type="string"/>
+        <element choice="3" default="None" label="CISO Results" max_length="4000" name="ciso_results" type="string">
+            <choice>
+                <element label="Additional Risk" value="Additional Risk"/>
+                <element label="CISO Review Not Performed" value="CISO Review Not Performed"/>
+                <element label="No Additional Risk" value="No Additional Risk"/>
+                <element label="None" value="None"/>
+            </choice>
+        </element>
         <element label="CISO Review Date" max_length="40" name="ciso_review_date" type="glide_date"/>
         <element label="CISO Security Engineering Comment" max_length="4000" name="ciso_security_engineering_comment" type="string"/>
         <element choice="3" default="Pending" label="CM Disposition Recommendation" max_length="100" name="cm_disposition_recommendation" type="string">
@@ -30,8 +37,8 @@
                 <element label="Approved - Restricted" sequence="5" value="Approved - Restricted"/>
             </choice>
         </element>
-        <element label="CM/EA Application/Infrastructure Library" max_length="100" name="cm_ea_application_infrastructure_library" type="string"/>
-        <element choice="3" default="Actively Retiring" label="CM/EA ARB IT Standard Status" max_length="100" name="cm_ea_arb_it_standard_status" type="string">
+        <element label="CM/EA Application/Infrastructure Library" max_length="100" name="cm_ea_application_infrastructure_library" reference="x_agfid_shr_shr_infrastructure_library_ref_tbl" type="reference"/>
+        <element choice="3" default="New Buy / Purchase" label="CM/EA ARB IT Standard Status" max_length="100" name="cm_ea_arb_it_standard_status" type="string">
             <choice>
                 <element label="Actively Retiring" sequence="0" value="Actively Retiring"/>
                 <element label="Future Consideration" sequence="1" value="Future Consideration"/>
@@ -41,6 +48,7 @@
                 <element label="Retired" sequence="5" value="Retired"/>
                 <element label="Supported Baseline" sequence="6" value="Supported Baseline"/>
                 <element label="Supported Restricted" sequence="7" value="Supported Restricted"/>
+                <element label="N/A" sequence="8" value="na"/>
             </choice>
         </element>
         <element label="CM/EA Google Related" max_length="40" name="cm_ea_google_related" type="boolean"/>
@@ -76,7 +84,6 @@
         <element label="EM Justification" max_length="4000" name="em_justification" type="string"/>
         <element label="EM Recommended Action" max_length="4000" name="em_recommended_action" type="string"/>
         <element label="EM Summary of Evaluation" max_length="4000" name="em_summary_of_evaluation" type="string"/>
-        <element label="Estimated cost" max_length="20" name="estimated_5_year_cost" type="currency"/>
         <element label="ILAB Application Dependencies" max_length="4000" name="ilab_application_dependencies" type="string"/>
         <element label="ILAB Comment" max_length="4000" name="ilab_comment" type="string"/>
         <element label="ILAB OS, Patch and Component Dependencies" max_length="4000" name="ilab_os_patch_and_component_dependencies" type="string"/>
@@ -126,6 +133,7 @@
                 <element label="Yes" sequence="3" value="Yes"/>
             </choice>
         </element>
+        <element label="Imported Details" max_length="4000" name="imported_details" type="string"/>
         <element label="Include on Standard Image" max_length="40" name="include_on_standard_image" type="boolean"/>
         <element label="Is this an upgrade" max_length="40" name="is_this_an_upgrade" type="boolean"/>
         <element label="ITO Conditions" max_length="4000" name="ito_conditions" type="string"/>
@@ -133,22 +141,22 @@
         <element label="ITO Recommended Action" max_length="4000" name="ito_recommended_action" type="string"/>
         <element label="ITO Summary of Evaluation" max_length="4000" name="ito_summary_of_evaluation" type="string"/>
         <element label="Manufacturer" max_length="200" name="manufacturer" type="string"/>
-        <element label="Manufacturer Webaddress" max_length="1024" name="manufacturer_webaddress" type="url"/>
+        <element label="Manufacturer Webaddress" max_length="1024" name="manufacturer_webaddress" type="string"/>
         <element label="Minimum System Requirements" max_length="4000" name="minimum_system_requirements" type="string"/>
         <element label="Need statement" max_length="4000" name="need_statement" type="string"/>
-        <element label="Number of Licenses" max_length="6" name="number_of_licenses" type="string"/>
+        <element label="Number of Licenses" max_length="150" name="number_of_licenses" type="string"/>
         <element label="Privacy Conditions" max_length="4000" name="privacy_conditions" type="string"/>
         <element label="Privacy Justification" max_length="4000" name="privacy_justification" type="string"/>
         <element label="Privacy Recommended Action" max_length="4000" name="privacy_recommended_action" type="string"/>
         <element label="Privacy Summary of Evaluation" max_length="4000" name="privacy_summary_of_evaluation" type="string"/>
-        <element choice="3" default="Cloud Based (Infrastructure as a Service)" label="Product Architecture" max_length="100" name="product_architecture" type="string">
+        <element choice="3" default="Not Provided" label="Product Architecture" max_length="100" name="product_architecture" type="string">
             <choice>
                 <element label="Cloud Based (Infrastructure as a Service)" sequence="0" value="Cloud Based (Infrastructure as a Service)"/>
                 <element label="Cloud Based (Platform as a Service)" sequence="1" value="Cloud Based (Platform as a Service)"/>
                 <element label="Cloud Based (Software as a Service)" sequence="2" value="Cloud Based (Software as a Service)"/>
                 <element label="Desktop Software Only" sequence="3" value="Desktop Software Only"/>
-                <element label="Service Software w/Desktop Component" sequence="4" value="Service Software w/Desktop Component"/>
-                <element label="Service Software Only (including web-based)" sequence="5" value="Service Software Only (including web-based)"/>
+                <element label="Server Software w/Desktop Component" sequence="4" value="Server Software w/Desktop Component"/>
+                <element label="Server Software Only (including web-based)" sequence="5" value="Server Software Only (including web-based)"/>
                 <element label="Not Provided" sequence="6" value="Not Provided"/>
             </choice>
         </element>
@@ -174,10 +182,11 @@
         <element label="Product Version" max_length="200" name="product_version" type="string"/>
         <element label="Quantity of Requested Hardware" max_length="6" name="quantity_of_requested_hardware" type="string"/>
         <element label="Requested By" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
-        <element label="Requires Driver" max_length="40" name="requires_driver" type="boolean"/>
+        <element default="True" label="Requires Driver" max_length="40" name="requires_driver" type="boolean"/>
         <element label="Restricted Use Comment" max_length="4000" name="restricted_use_comment" type="string"/>
         <element label="SHAR Review Comment" max_length="4000" name="shar_review_comment" type="string"/>
         <element label="Stage" max_length="80" name="stage" type="workflow"/>
+        <element label="Total Estimated Cost" max_length="200" name="total_estimated_cost" type="string"/>
         <element label="USAID Owner" max_length="32" name="usaid_owner" reference="sys_user" type="reference"/>
     </element>
 </database>

@@ -5,13 +5,13 @@
             <element>additional_review_comment</element>
             <position>0</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:59</sys_created_on>
-            <sys_id>da5738f8dbf103002614f81d0f9619e8</sys_id>
+            <sys_created_on>2017-10-16 16:34:16</sys_created_on>
+            <sys_id>986a43dedb79c3002614f81d0f961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Recommendation" display_value="Recommendation" name="x_agfid_shr_shr" sys_domain="global" view="Default view">80534bc7dbad8b002614f81d0f961950</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:59</sys_updated_on>
+            <sys_updated_on>2017-10-16 16:34:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,83 +19,97 @@
             <element>include_on_standard_image</element>
             <position>1</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:59</sys_created_on>
-            <sys_id>5e5738f8dbf103002614f81d0f9619e8</sys_id>
+            <sys_created_on>2017-10-16 16:34:16</sys_created_on>
+            <sys_id>1c6a43dedb79c3002614f81d0f961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Recommendation" display_value="Recommendation" name="x_agfid_shr_shr" sys_domain="global" view="Default view">80534bc7dbad8b002614f81d0f961950</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:59</sys_updated_on>
+            <sys_updated_on>2017-10-16 16:34:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>imported_details</element>
+            <position>2</position>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-16 16:34:16</sys_created_on>
+            <sys_id>9c6a43dedb79c3002614f81d0f961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Recommendation" display_value="Recommendation" name="x_agfid_shr_shr" sys_domain="global" view="Default view">80534bc7dbad8b002614f81d0f961950</sys_ui_section>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-16 16:34:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:59</sys_created_on>
-            <sys_id>de5738f8dbf103002614f81d0f9619e8</sys_id>
+            <sys_created_on>2017-10-16 16:34:16</sys_created_on>
+            <sys_id>106a43dedb79c3002614f81d0f961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Recommendation" display_value="Recommendation" name="x_agfid_shr_shr" sys_domain="global" view="Default view">80534bc7dbad8b002614f81d0f961950</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:59</sys_updated_on>
+            <sys_updated_on>2017-10-16 16:34:16</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cm_disposition_recommendation</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:59</sys_created_on>
-            <sys_id>525738f8dbf103002614f81d0f9619e9</sys_id>
+            <sys_created_on>2017-10-16 16:34:16</sys_created_on>
+            <sys_id>906a43dedb79c3002614f81d0f961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Recommendation" display_value="Recommendation" name="x_agfid_shr_shr" sys_domain="global" view="Default view">80534bc7dbad8b002614f81d0f961950</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:59</sys_updated_on>
+            <sys_updated_on>2017-10-16 16:34:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>disposition_reason</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:59</sys_created_on>
-            <sys_id>d25738f8dbf103002614f81d0f9619e9</sys_id>
+            <sys_created_on>2017-10-16 16:34:16</sys_created_on>
+            <sys_id>146a43dedb79c3002614f81d0f961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Recommendation" display_value="Recommendation" name="x_agfid_shr_shr" sys_domain="global" view="Default view">80534bc7dbad8b002614f81d0f961950</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:59</sys_updated_on>
+            <sys_updated_on>2017-10-16 16:34:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>restricted_use_comment</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:59</sys_created_on>
-            <sys_id>565738f8dbf103002614f81d0f9619e9</sys_id>
+            <sys_created_on>2017-10-16 16:34:16</sys_created_on>
+            <sys_id>946a43dedb79c3002614f81d0f961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Recommendation" display_value="Recommendation" name="x_agfid_shr_shr" sys_domain="global" view="Default view">80534bc7dbad8b002614f81d0f961950</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:59</sys_updated_on>
+            <sys_updated_on>2017-10-16 16:34:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>shar_review_comment</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-10-11 14:00:59</sys_created_on>
-            <sys_id>d65738f8dbf103002614f81d0f9619e9</sys_id>
+            <sys_created_on>2017-10-16 16:34:16</sys_created_on>
+            <sys_id>186a43dedb79c3002614f81d0f961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Recommendation" display_value="Recommendation" name="x_agfid_shr_shr" sys_domain="global" view="Default view">80534bc7dbad8b002614f81d0f961950</sys_ui_section>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-10-11 14:00:59</sys_updated_on>
+            <sys_updated_on>2017-10-16 16:34:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -109,6 +123,7 @@
             <sys_created_on>2017-10-06 13:43:07</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>80534bc7dbad8b002614f81d0f961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Recommendation</sys_name>

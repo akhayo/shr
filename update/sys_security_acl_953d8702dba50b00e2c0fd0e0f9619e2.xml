@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-03 11:52:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>953d8702dba50b00e2c0fd0e0f9619e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_agfid_shr_shr.ito_conditions</sys_name>

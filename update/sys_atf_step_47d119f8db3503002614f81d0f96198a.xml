@@ -24,7 +24,7 @@ and Number of Licenses = 256</description>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-11 16:05:42</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>47d119f8db3503002614f81d0f96198a</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Set Field Values</sys_name>

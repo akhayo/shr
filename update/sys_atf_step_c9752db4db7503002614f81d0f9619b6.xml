@@ -13,7 +13,7 @@ Update the value of the field 'State' to 'Closed Complete'
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-11 17:22:51</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c9752db4db7503002614f81d0f9619b6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Record Update</sys_name>

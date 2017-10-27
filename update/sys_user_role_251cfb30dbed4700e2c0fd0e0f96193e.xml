@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-09-29 18:05:14</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>251cfb30dbed4700e2c0fd0e0f96193e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_agfid_shr.shr_ea</sys_name>

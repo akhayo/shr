@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-09-29 16:06:33</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>e0012b70dbad4700e2c0fd0e0f96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>SHR_tasks</sys_name>

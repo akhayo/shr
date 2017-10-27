@@ -11,8 +11,9 @@
         <sys_class_name>sys_filter</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-02 16:18:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>e1400735db610b002614f81d0f9619b0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Filter SHR Task Group</sys_name>

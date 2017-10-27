@@ -5,7 +5,7 @@
         <cancel_condition/>
         <collection>x_agfid_shr_shr</collection>
         <condition_class/>
-        <duration>1970-01-02 00:00:00</duration>
+        <duration>1970-01-01 00:05:00</duration>
         <duration_type/>
         <enable_logging>false</enable_logging>
         <name>SHR SLA</name>
@@ -17,7 +17,7 @@
         <resume_condition/>
         <retroactive>false</retroactive>
         <retroactive_pause>true</retroactive_pause>
-        <schedule display_value="8:00-5:00 weekdays excluding holidays">08fcd0830a0a0b2600079f56b1adb9ae</schedule>
+        <schedule display_value="8-5 weekdays">08fcd0830a0a0b2600079f56b1adb9ae</schedule>
         <schedule_source>sla_definition</schedule_source>
         <schedule_source_field/>
         <set_start_to>approval_set</set_start_to>
@@ -33,8 +33,9 @@
         <sys_created_on>2017-10-01 17:18:29</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>39a48ee1dbe1c700e2c0fd0e0f961998</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>SHR SLA</sys_name>
         <sys_overrides/>
         <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
@@ -43,7 +44,7 @@
         <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
         <sys_update_name>contract_sla_39a48ee1dbe1c700e2c0fd0e0f961998</sys_update_name>
         <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-        <sys_updated_on>2017-10-12 19:54:55</sys_updated_on>
+        <sys_updated_on>2017-10-24 12:29:32</sys_updated_on>
         <timezone/>
         <timezone_source>task.caller_id.time_zone</timezone_source>
         <type>SLA</type>

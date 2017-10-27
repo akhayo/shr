@@ -9,7 +9,7 @@ End-user  does not fill mandatory field</description>
         <sys_class_name>sys_atf_test</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-12 13:07:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4ca47981dbfd03002614f81d0f9619e8</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>Failed SHR Automated Test Sample</sys_name>

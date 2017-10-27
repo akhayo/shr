@@ -13,11 +13,31 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-09-29 14:50:03</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>b77f0f74db6d4700e2c0fd0e0f9619d1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
             <sys_updated_on>2017-09-29 14:50:03</sys_updated_on>
             <value>Cloud Based (Infrastructure as a Service)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_architecture</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Service Software w/Desktop Component</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>0</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-09-29 14:50:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>448f0f74db6d4700e2c0fd0e0f9619da</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-16 12:55:38</sys_updated_on>
+            <value>Service Software w/Desktop Component</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -31,11 +51,31 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-09-29 14:50:03</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>0c8f0f74db6d4700e2c0fd0e0f9619d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
             <sys_updated_on>2017-09-29 14:50:03</sys_updated_on>
             <value>Cloud Based (Platform as a Service)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_architecture</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Service Software Only (including web-based)</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>1</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-09-29 14:50:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>088f0f74db6d4700e2c0fd0e0f9619dc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-16 12:55:38</sys_updated_on>
+            <value>Service Software Only (including web-based)</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -49,6 +89,7 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-09-29 14:50:03</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>cc8f0f74db6d4700e2c0fd0e0f9619d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
@@ -67,6 +108,7 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-09-29 14:50:03</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>808f0f74db6d4700e2c0fd0e0f9619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
@@ -78,36 +120,38 @@
             <element>product_architecture</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Service Software w/Desktop Component</label>
+            <label>Server Software w/Desktop Component</label>
             <language>en</language>
             <name>x_agfid_shr_shr</name>
             <sequence>4</sequence>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-09-29 14:50:03</sys_created_on>
+            <sys_created_on>2017-10-16 12:55:38</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>448f0f74db6d4700e2c0fd0e0f9619da</sys_id>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd589256db39c3002614f81d0f961964</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:50:03</sys_updated_on>
-            <value>Service Software w/Desktop Component</value>
+            <sys_updated_on>2017-10-16 12:55:38</sys_updated_on>
+            <value>Server Software w/Desktop Component</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>product_architecture</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Service Software Only (including web-based)</label>
+            <label>Server Software Only (including web-based)</label>
             <language>en</language>
             <name>x_agfid_shr_shr</name>
             <sequence>5</sequence>
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
-            <sys_created_on>2017-09-29 14:50:03</sys_created_on>
+            <sys_created_on>2017-10-16 12:55:38</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>088f0f74db6d4700e2c0fd0e0f9619dc</sys_id>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1589256db39c3002614f81d0f961967</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:50:03</sys_updated_on>
-            <value>Service Software Only (including web-based)</value>
+            <sys_updated_on>2017-10-16 12:55:38</sys_updated_on>
+            <value>Server Software Only (including web-based)</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -121,6 +165,7 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-09-29 14:50:03</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>c88f0f74db6d4700e2c0fd0e0f9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
@@ -134,8 +179,8 @@
             <sys_created_by>emalsia@usaid.gov</sys_created_by>
             <sys_created_on>2017-09-29 14:50:03</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>c48f0f74db6d4700e2c0fd0e0f9619d3</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>e640543b0f7103006b923b6ce1050ec6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name>product_architecture</sys_name>
             <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
             <sys_policy/>
@@ -143,7 +188,7 @@
             <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
             <sys_update_name>sys_choice_x_agfid_shr_shr_product_architecture</sys_update_name>
             <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
-            <sys_updated_on>2017-09-29 14:50:03</sys_updated_on>
+            <sys_updated_on>2017-10-13 13:16:36</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

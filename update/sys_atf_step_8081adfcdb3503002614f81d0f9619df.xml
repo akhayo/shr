@@ -13,7 +13,7 @@ and Approver = CM User1</description>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>emalsia@usaid.gov</sys_created_by>
         <sys_created_on>2017-10-11 17:06:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8081adfcdb3503002614f81d0f9619df</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Record Query</sys_name>
